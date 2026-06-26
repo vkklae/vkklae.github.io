@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Diary
-permalink: /diary/
+title: scrap
+permalink: /scrap/
 ---
 
 ## first entry (2026-06-25)
