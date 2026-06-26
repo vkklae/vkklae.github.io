@@ -1,4 +1,0 @@
-title: "vkklae's notebook"
-defaults:
-  - scope: { path: "", type: posts }
-    values: { layout: post }
